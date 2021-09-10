@@ -1,7 +1,6 @@
 import React from "react";
 import Sketch from "react-p5";
 import SimplexNoise from "simplex-noise";
-import "p5.createloop";
 
 let minFrequency = 0.5;
 let maxFrequency = 2;
